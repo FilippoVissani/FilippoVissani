@@ -1,5 +1,10 @@
 ## My Stats
+<div align="center">
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FilippoVissani&theme=prussian&count_private=true)](https://github.com/FilippoVissani/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FilippoVissani&theme=nord)](https://github.com/FilippoVissani/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoVissani&theme=prussian&hide=shaderlab)](https://github.com/FilippoVissani/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FilippoVissani&theme=nord&count_private=true)](https://github.com/FilippoVissani/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoVissani&theme=nord&hide=shaderlab)](https://github.com/FilippoVissani/github-readme-stats)
+
+</div>
