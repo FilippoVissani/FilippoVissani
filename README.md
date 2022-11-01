@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoVissani&theme=nord&hide=shaderlab)](https://github.com/FilippoVissani/github-readme-stats)
   
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=FilippoVissani&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=FilippoVissani&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
 />
 
 </div>
