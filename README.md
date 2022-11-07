@@ -1,4 +1,13 @@
-## My Stats
+### Hi there 👋
+
+- 📫 How to reach me:
+  - Email: filippo.vissani.99@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/filippo-vissani-ba8088244/)
+  - [CodersRank](https://profile.codersrank.io/user/filippovissani)
+  - [Website](https://filippovissani.github.io/) (Work in progress)
+
+### My Stats
+
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FilippoVissani&theme=nord)](https://github.com/FilippoVissani/github-profile-trophy)
@@ -8,9 +17,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=FilippoVissani&theme=nord&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoVissani&theme=nord&hide=shaderlab)](https://github.com/FilippoVissani/github-readme-stats)
-  
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=FilippoVissani&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
-/>
 
 </div>
