@@ -13,7 +13,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FilippoVissani&theme=nord)](https://github.com/FilippoVissani/github-profile-trophy)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FilippoVissani&theme=nord&count_private=true)](https://github.com/FilippoVissani/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FilippoVissani&show_icons=true&theme=nord&count_private=true)](https://github.com/FilippoVissani/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FilippoVissani&theme=nord&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
