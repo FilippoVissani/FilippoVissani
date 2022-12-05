@@ -3,7 +3,7 @@
 - 📫 How to reach me:
   - Institutional email: filippo.vissani@studio.unibo.it
   - Personal email: filippo.vissani.99@gmail.com
-  - [LinkedIn](https://www.linkedin.com/in/filippo-vissani-ba8088244/)
+  - <a href="https://www.linkedin.com/in/filippo-vissani-ba8088244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   - [CodersRank](https://profile.codersrank.io/user/filippovissani)
   - [Website](https://filippovissani.github.io/) (Work in progress)
 
