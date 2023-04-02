@@ -18,7 +18,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=FilippoVissani&theme=nord&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoVissani&theme=nord&hide=shaderlab)](https://github.com/FilippoVissani/github-readme-stats)
-  
-![trophy](https://wakatime.com/share/@7b22d3a3-0313-416c-86a7-8fa41c6d9ce7/67761344-be73-4351-89a6-2cb9f9832728.svg)
 
 </div>
