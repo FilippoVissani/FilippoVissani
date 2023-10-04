@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FilippoVissani&theme=transparent)](https://github.com/FilippoVissani/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FilippoVissani&theme=transparent&rank=-C,-B)](https://github.com/FilippoVissani/github-profile-trophy)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FilippoVissani&show_icons=true&theme=transparent&count_private=true&rank_icon=percentile)](https://github.com/FilippoVissani/github-readme-stats)
 
